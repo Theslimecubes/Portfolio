@@ -1,0 +1,204 @@
+.rectangle-1 {
+  background-color: grey;
+  border-radius: 54px;
+  box-shadow: 0px 10px 10px #00000029;
+  height: 227px;
+  width: 773px;
+  margin-left: 350px;
+}
+
+.Portfolio {
+  height: 99px;
+  left: 600px;
+  letter-spacing: 0;
+  line-height: 100px;
+  position: absolute;
+  text-shadow: 0px 10px 6px #00000029;
+  top: 0;
+  white-space: nowrap;
+  width: 900px;
+  font-size: 60px;
+}
+
+.Josh {
+  left: -100px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: -1350px;
+  width: 300px;
+}
+
+.rectangle-3 {
+  left: 300px;
+  bottom: 400px;
+  background-color: grey;
+  border-radius: 54px;
+  height: 79px;
+  width: 203px;
+  position: absolute;
+}
+
+.rectangle-4 {
+  left: 530px;
+  bottom: 400px;
+  background-color: grey;
+  border-radius: 54px;
+  height: 79px;
+  width: 203px;
+  position: absolute;
+}
+
+.rectangle-5 {
+  left: 770px;
+  bottom: 400px;
+  background-color: grey;
+  border-radius: 54px;
+  height: 79px;
+  width: 203px;
+  position: absolute;
+}
+
+.rectangle-6 {
+  left: 1000px;
+  bottom: 400px;
+  background-color: grey;
+  border-radius: 54px;
+  height: 79px;
+  width: 203px;
+  position: absolute;
+}
+
+.OverMij {
+  height: 5207px;
+  left: 330px;
+  object-fit: cover;
+  position: absolute;
+  top: 250px;
+  width: 7752px;
+}
+
+.Opleiding {
+  left: 560px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 250;
+  width: 270px;
+}
+
+.Werk {
+  left: 775px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 250px;
+  width: 319px;
+}
+
+.Socials {
+  left: 1050px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 250px;
+  width: 194px;
+}
+
+.josh2 {
+  height: 400px;
+  left: -350px;
+  object-fit: cover;
+  position: absolute;
+  top: -640px;
+  width: 320px;
+}
+
+.Josh3 {
+  left: 600px;
+  letter-spacing: 0;
+  line-height: 55px;
+  position: absolute;
+  top: 550px;
+  width: 535px;
+}
+
+.ik18 {
+  height: 338px;
+  left: 550px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 660px;
+  width: 654px;
+}
+
+@font-face {
+  font-family: "Arial-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("https://fonts.animaapp.com/Arial-Regular") format("truetype");
+}
+
+.opleiding2 {
+  left: 600px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 1000px;
+  width: 455px;
+}
+
+.opleiding3 {
+  left: 600px;
+  letter-spacing: 0;
+  line-height: 70px;
+  position: absolute;
+  text-shadow: 0px 10px 10px #00000029;
+  top: 1030px;
+  white-space: nowrap;
+}
+
+.opleiding4 {
+  height: 179px;
+  left: 500px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 1150px;
+  width: 898px;
+}
+
+.WebsiteFoto {
+  height: 437px;
+  object-fit: cover;
+  left: 300px;
+  position: absolute;
+  top: -600px;
+  width: 856px;
+}
+
+.Werkervaring2 {
+  left: 100px;
+  letter-spacing: 0;
+  line-height: 70px;
+  position: absolute;
+  top: 600px;
+  width: 870px;
+}
+
+.Ervaring {
+  left: -200px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  top: 700px;
+  width: 898px;
+}
+
+@font-face {
+  font-family: "Arial-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("https://fonts.animaapp.com/Arial-Regular") format("truetype");
+}
